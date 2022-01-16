@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5100999136114508900
+  m_GuidHigh: 10033266185858601135
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5531841325209329012
+      m_GuidHigh: 6001185246584506509
+    m_SerializedTextureGuid:
+      m_GuidLow: 1068524293382700913
+      m_GuidHigh: 7782966564746701448
+    m_Size: {x: 0.15, y: 0.10928572}
+    m_SpecifySize: 1
+    m_Name: Kimono Flower
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5259511832773425659
+      m_GuidHigh: 4278318964312777376
+    m_SerializedTextureGuid:
+      m_GuidLow: 2973659267247298466
+      m_GuidHigh: 1353380686032072793
+    m_Size: {x: 0.125, y: 0.0764526}
+    m_SpecifySize: 1
+    m_Name: Cherry Blossom
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5689044359229099636
+      m_GuidHigh: 10322023144245227198
+    m_SerializedTextureGuid:
+      m_GuidLow: 16047528743169271678
+      m_GuidHigh: 4335830315508400040
+    m_Size: {x: 0.125, y: 0.0703125}
+    m_SpecifySize: 1
+    m_Name: Forest
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4777892501335651102
+      m_GuidHigh: 9222142061133902249
+    m_SerializedTextureGuid:
+      m_GuidLow: 1541517696828926071
+      m_GuidHigh: 12388930840451847561
+    m_Size: {x: 0.07, y: 0.04935}
+    m_SpecifySize: 1
+    m_Name: Water Dragon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5333307937105531740
+      m_GuidHigh: 17977533373246012350
+    m_SerializedTextureGuid:
+      m_GuidLow: 775886966187655949
+      m_GuidHigh: 5636655522708356186
+    m_Size: {x: 0.125, y: 0.0703125}
+    m_SpecifySize: 1
+    m_Name: Touhou
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5531331399803691193
+      m_GuidHigh: 7572874176320965787
+    m_SerializedTextureGuid:
+      m_GuidLow: 16218596204745662677
+      m_GuidHigh: 8388548116513025578
+    m_Size: {x: 0.12, y: 0.07998}
+    m_SpecifySize: 1
+    m_Name: Summer Girl
+    m_Texture: {fileID: 0}

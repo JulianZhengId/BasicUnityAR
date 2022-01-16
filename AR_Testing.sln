@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{03FD2C2B-A57E-D2E0-D812-4087D3EE1C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4804988A-90C4-F758-3ABC-D8D49E110497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Examples", "UniRx.Examples.csproj", "{F50A0200-F791-8C5B-2CAE-D21569500590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FD2C2B-A57E-D2E0-D812-4087D3EE1C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FD2C2B-A57E-D2E0-D812-4087D3EE1C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FD2C2B-A57E-D2E0-D812-4087D3EE1C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FD2C2B-A57E-D2E0-D812-4087D3EE1C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4804988A-90C4-F758-3ABC-D8D49E110497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4804988A-90C4-F758-3ABC-D8D49E110497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4804988A-90C4-F758-3ABC-D8D49E110497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4804988A-90C4-F758-3ABC-D8D49E110497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50A0200-F791-8C5B-2CAE-D21569500590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50A0200-F791-8C5B-2CAE-D21569500590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50A0200-F791-8C5B-2CAE-D21569500590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50A0200-F791-8C5B-2CAE-D21569500590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
